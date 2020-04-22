@@ -47,3 +47,5 @@ logs/
 export_fig/
 
 prtools/
+
+*.gif
