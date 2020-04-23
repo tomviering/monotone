@@ -34,10 +34,10 @@ This file explains which files correspond to which experiments and figures in th
 Because the experiments are very time consuming (due to 100 repitions), I provide the results for you,
 but using this code you can recompute all results to check their validity. 
 
-## Contact
+# Contact
 If you run into any issues, you can email me: t.j.my_surname_here AT tudelft DOT nl
 
-## License
+# License
 
 MIT License
 
