@@ -15,7 +15,7 @@ If you found this code useful in your work, please cite our paper.
 2. Download the [author provided results](http://tomviering.nl/monotone/author_results.zip) and extract it in the main folder of the repo.
 3. Download and extract [prtools](http://prtools.tudelft.nl/files/prtools.zip) in the directory 'prtools'.
 4. Download the [preprocessed MNIST dataset](http://tomviering.nl/monotone/processed500.zip) and extract it in the folder 'dat' (optional: only required for MNIST experiments).
-5. Download and extract [export_fig](https://nl.mathworks.com/matlabcentral/fileexchange/23629-export_fig) in the directory 'export_fig' (optional: only required if you want to generate the PDF versions of the figures).
+5. Download and extract [export_fig](https://nl.mathworks.com/matlabcentral/fileexchange/23629-export_fig) in the directory 'export_fig' (optional: only required for PDF figures).
 
 # How to
 
