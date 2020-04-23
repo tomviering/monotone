@@ -11,13 +11,13 @@ IDA 2020
 If you found this code useful in your work, please cite our paper.
 
 # Installation
-1. Clone repository to your local PC: `git clone https://github.com/tomviering/monotone.git`
-2. Download the preprocessed MNIST dataset 
-3. Download the author provided results
-4. Install [prtools](http://37steps.com/) in the directory 'prtools'
-5. Install [export_fig](https://nl.mathworks.com/matlabcentral/fileexchange/23629-export_fig) in the directory 'export_fig' (optional: only required if you want to generate the PDF versions of the figures)
+1. Clone repository to your local PC: `git clone https://github.com/tomviering/monotone.git`.
+2. Download the [author provided results](http://tomviering.nl/monotone/author_results.zip) and extract it in the main folder of the repo.
+3. Download and extract [prtools](http://prtools.tudelft.nl/files/prtools.zip) in the directory 'prtools'.
+4. Download the [preprocessed MNIST dataset](http://tomviering.nl/monotone/processed500.zip) and extract it in the folder 'dat' (optional: only required for MNIST experiments).
+5. Download and extract [export_fig](https://nl.mathworks.com/matlabcentral/fileexchange/23629-export_fig) in the directory 'export_fig' (optional: only required if you want to generate the PDF versions of the figures).
 
-# How to use this code
+# How to
 
 ## example.m
 
@@ -30,6 +30,7 @@ Reproduces all the figures in the paper from the author provided results.
 
 ## exp/readme.m
 
-This file explains which files correspond to which experiments and figure in the paper. 
-Because the experiments are very time consuming (due to 100 repitions), I provide the results for you.
+This file explains which files correspond to which experiments and figures in the paper. 
+Because the experiments are very time consuming (due to 100 repitions), I provide the results for you,
+but using this code you can recompute all results to check their validity. 
 
