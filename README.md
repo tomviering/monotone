@@ -15,7 +15,7 @@ If you found this code useful in your work, please cite our paper.
 2. Download the preprocessed MNIST dataset 
 3. Download the author provided results
 4. Install [prtools](http://37steps.com/) in the directory 'prtools'
-5) Install [export_fig](https://nl.mathworks.com/matlabcentral/fileexchange/23629-export_fig) in the directory 'export_fig' (optional: only required if you want to generate the PDF versions of the figures)
+5. Install [export_fig](https://nl.mathworks.com/matlabcentral/fileexchange/23629-export_fig) in the directory 'export_fig' (optional: only required if you want to generate the PDF versions of the figures)
 
 # How to use this code
 
