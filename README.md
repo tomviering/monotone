@@ -18,7 +18,7 @@ If you found this code useful in your work, please cite our paper.
    - http://37steps.com/
 4) install export_fig in the directory 'export_fig' (optional)
    - https://nl.mathworks.com/matlabcentral/fileexchange/23629-export_fig
-   - only required if you want to reproduce the figures
+   - only required if you want to export the figures of the paper to PDF
 
 # How to use this code
 A minimal working example can be found in example.m
